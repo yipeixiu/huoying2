@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     // 添加了功能
+    
+    // 添加模块2 
 }
 
 - (void)didReceiveMemoryWarning {
