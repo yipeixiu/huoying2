@@ -32,7 +32,6 @@
     
     // 完成项目7
     
-    // dfndif
 }
 
 - (void)didReceiveMemoryWarning {
