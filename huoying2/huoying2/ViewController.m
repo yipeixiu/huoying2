@@ -21,7 +21,7 @@
     // 添加了功能
     
     // 修改了bug
-    
+    // 添加了功能1
 }
 
 - (void)didReceiveMemoryWarning {
