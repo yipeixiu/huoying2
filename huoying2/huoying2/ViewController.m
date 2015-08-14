@@ -20,11 +20,13 @@
     
     // 添加了功能
     
+    // 修改了bug
     // 添加模块2
     
     // 添加模块3
     
     // 添加模块4
+    // 添加模块5
 }
 
 - (void)didReceiveMemoryWarning {
